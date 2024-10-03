@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html style="font-size: 500px; -uc-font-scale: disable;">
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" crossorigin="anonymous" async="" src="https://g.alicdn.com/woodpeckerx/itrace-next/??itrace-flow.iife.js,itrace-perf.iife.js,itrace-resource.iife.js,itrace-blank.iife.js"></script>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="data-fact" content="clouddrive">
+    <meta name="spm-id" content="clouddrive">
+    <meta name="data-spm" content="clouddrive">
+    <meta name="aplus-waiting" content="MAN">
+    <meta name="multiple-page">
+    <meta name="wpk-bid" content="af735vea-hmo5i8tm">
+    <meta name="wpk-rel" content="1.8.3">
+    <link href="data:image/x-icon;data:image/vnd.microsoft.icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACrUExURUdwTBEWGREVGRIWGREWGREVGQAkJBUVFREVGhEWGhEVGREVGQAqKhIWGRAWGxEWHBIWGv///xMXG/7+/o+Qkh8jJigsMGFkZoiKjD5BRJ+ho3p8f1ZZXG5wc0VISxUZHfn5+eTl5cfIyfX19XR3eausrr6/wFBTVpyeoC0xNCQnKzc6PlteYdvb3LO0tWhrbn1/gYWHiYCChMTFxuzs7NLT1NfY2Ofn6BgbH+UPa/sAAAAQdFJOUwDZv5XjxwcY9PJHggaWLi1e/SYZAAABc0lEQVR42oWT63KCMBCFI2gVkPYkKSoV79b7pWptff8nK5tNFMbO8P1hyEmyZy8RD9qh79WCoOb5YVs804wD3AnipijzErVQohW9lI438ESjcMlrHf9Qf7ufN3rSPQ+GqrSjaePT/Wo+kzk/WSkK+4hIP0hGH1EgMgHI/1w6dErKzuZCQWKKP3tsOADozayZOK8f1acrH6xyXeqRrVhbhPQd7PdO/1C5LvVnB4ZQ+DCcijoxWYPwhQdiqAs6swDhiRqIy11PF9+SMenUhOlhR7M/4/3WnUhiYFzyhq47r7bZGthM6bdvNnCIL1q4jJDR2WuKDX2XHMKDLaTeunKMU9ySJFHGJKe5zJenSJy9K5AslU0zdCbfkUnHGlO2gJBLjQN5OktHhoM+cqm5WUi1XBU6MoTiUseu3ejLCzpjq/+OUGi3iLgZ4y1lyyw2MERu5IhhD6rv7ljZkSsOLRSlszv1iAEPbeXYVz+c6qdX/Xgrn/8fOew7Unyn5yIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon">
+    <title>xbb文件分享</title>
+    <link rel="stylesheet" href="https://g.alicdn.com/code/npm/@ali/uc-pegasus-source-project-uc-clouddrive-shareh5/1.8.3/css/pages/index/index.99a531.css">
+    <link rel="stylesheet" href="https://g.alicdn.com/code/npm/@ali/uc-pegasus-source-project-uc-clouddrive-shareh5/1.8.3/css/pages/index/index_bootstrap.99a531.css">
+    <link rel="stylesheet" type="text/css" href="https://g.alicdn.com/code/npm/@ali/uc-pegasus-source-project-uc-clouddrive-shareh5/1.8.3/css/asyncPicker.99a531.css">
+    <style>
+        .btn-custom {
+            margin: 10px 0;
+            padding: 10px 20px;
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            width: 100%; /* Set to full width */
+        }
+        .btn-copy-url {
+            background-color: #007bff;
+        }
+        .btn-copy-gitee {
+            background-color: #17a2b8;
+        }
+        .btn-download {
+            background-color: #28a745;
+        }
+        .btn-faq {
+            background-color: #ffffff;
+            color: #000000;
+        }
+        .foot-button-wrap {
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center the buttons */
+            position: fixed; /* Fix to the bottom */
+            bottom: 0; /* Align to the bottom */
+            left: 0; /* Align to the left edge */
+            width: 100%; /* Full width */
+            background: #fff; /* Optional: Add background to ensure buttons are visible */
+            padding: 10px 0; /* Add padding to the top and bottom */
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visibility */
+            z-index: 1000; /* Ensure it appears above other content */
+        }
+        .content-body-h5 {
+            padding-bottom: 80px; /* Add padding to ensure content doesn't overlap with buttons */
+        }
+    </style>
+</head>
+<body style="font-size:16px" inmaintabuse="1">
+    <div id="root">
+        <div class="share-detail-content-h5-wrap">
+            <div class="share-detail-content-h5">
+                <div class="share-detail-scroll">
+                    <div></div>
+                    <div class="share-info-wrap">
+                        <div class="share-info_l">
+                            <div class="avatar-wrap">
+                                <img class="avatar" src="//image.quark.cn/s/uae/g/3o/broccoli/resource/202309/73a5c130-4b00-11ee-8cd0-efec1d59dc4e.png">
+                            </div>
+                            <div class="info-wrap">
+                                <span class="author-name">更多资源：小北的抖音号</span>
+                                <span class="file-stat">永久有效</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-body-h5">
+                        <div class="mini-file-list">
+                            <div class="file-item">
+                                <div class="file-item__hd">
+                                    <div class="file-icon h5-share-file-icon">
+                                        <div style="width: 100%; height: 100%; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat; background-image: url('https://img.alicdn.com/imgextra/i2/O1CN01ywiSkM1fgzicipvFF_!!6000000004037-2-tps-192-192.png');">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="file-item__bd">
+                                    <div class="file-item-info">
+                                        <div class="item-tit" title="晓晓小UP_ASMR_🥰近距离麦克风发出的声音_超助眠.m4a">晓晓小UP_ASMR_🥰近距离麦克风发出的声音_超助眠.m4a</div>
+                                        <div class="item-sub-tit">
+                                            <span>2024-10-03</span>
+                                            <span>25.86 MB</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <input type="checkbox" class="h5-content-check h5-content-check-off">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Foot buttons at the bottom of the page -->
+                <div class="foot-button-wrap">
+                    <button type="button" class="btn-custom btn-copy-url" onclick="copyCurrentURL()">复制地址1</button>
+                    <button type="button" class="btn-custom btn-copy-gitee" onclick="copyGiteeURL()">复制地址2</button>
+                    <button type="button" class="btn-custom btn-download" onclick="downloadPackage()">xbb下载器-安装包下载</button>
+                    <button type="button" class="btn-custom btn-faq" onclick="openFAQ()">下载异常-常见问题</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+		async function copyCurrentURL() {
+			const url = window.location.href;
+
+			try {
+				await navigator.clipboard.writeText(url);
+				alert('地址1已复制，粘贴进xbb下载器即可');
+			} catch (err) {
+				console.error('复制失败，请更换浏览器，错误代码:', err);
+				// 备用方案
+				fallbackCopyTextToClipboard(url);
+			}
+		}
+
+		async function copyGiteeURL() {
+			const giteeUrl = giteem3u8;
+
+			try {
+				await navigator.clipboard.writeText(giteeUrl);
+				alert('地址2已复制，粘贴进xbb下载器即可');
+			} catch (err) {
+				console.error('复制失败，请更换浏览器，错误代码：', err);
+				// 备用方案
+				fallbackCopyTextToClipboard(giteeUrl);
+			}
+		}
+
+		function fallbackCopyTextToClipboard(text) {
+			const tempInput = document.createElement('input');
+			tempInput.value = text;
+			document.body.appendChild(tempInput);
+			tempInput.select();
+			document.execCommand('copy');
+			document.body.removeChild(tempInput);
+			alert('地址已复制，粘贴进xbb下载器即可');
+		}
+
+
+        function downloadPackage() {
+            const downloadUrl = 'https://pan.quark.cn/s/ac9c01c8a35b';
+            window.location.href = downloadUrl;
+        }
+
+        function openFAQ() {
+            const faqUrl = 'https://GoutouLuoli.github.io/xiaobei/errfq.html';
+            window.open(faqUrl, '_blank');
+        }
+        var filelist = ['https://gitee.com/testingandtesting/kwlwdo/raw/master/lFHFICZK晓晓小UP_ASMR_🥰近距离麦克风发出的声音_超助眠_part0001.m4a', 'https://gitee.com/testingandtesting/kwlwdo/raw/master/lFHFICZK晓晓小UP_ASMR_🥰近距离麦克风发出的声音_超助眠_part0002.m4a', 'https://gitee.com/testingandtesting/kwlwdo/raw/master/lFHFICZK晓晓小UP_ASMR_🥰近距离麦克风发出的声音_超助眠_part0003.m4a', ]; //文件切片
+	</script>
+</body>
+</html>
