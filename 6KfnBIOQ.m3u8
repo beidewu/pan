@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.081222,
+https://gitee.com/testingandtesting/oqqwo/raw/master/6KfnBIOQoutput000.ts
+#EXTINF:1.600000,
+https://gitee.com/testingandtesting/oqqwo/raw/master/6KfnBIOQoutput001.ts
+#EXT-X-ENDLIST
